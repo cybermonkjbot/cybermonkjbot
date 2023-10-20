@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cybermonkjbot an Adjacent Accoubt for @Cybermonkj
+- 👋 Hi, I’m @cybermonkjbot an Adjacent Account for @Cybermonkj
 - 👀 I’m interested in DevOps and Backend Engineering
 - 🌱 I’m currently learning prometheus
 - 💞️ I’m looking to collaborate on python based rest API's
